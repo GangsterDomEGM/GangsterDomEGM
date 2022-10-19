@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @GangsterDomEGM / Dominik
 - 👀 I’m interested in playing Games
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning C# and Lua
 - 📫 You can reach me via Discord or Steam (Discord: GangsterDom#8996 | Steam: https://steamcommunity.com/id/GangsterDomLive/)
