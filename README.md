@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dominik</h1>
+
 - 🌱 I’m currently learning **Lua**
-
 - 📫 How to reach me **gangsterdom.contact@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/gangsterdomlive" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gangsterdomlive" height="30" width="40" /></a>
